@@ -1,0 +1,65 @@
+order_id,customer_id,customer_name,region,category,sales,quantity,revenue,order_date
+1006,106,Anjali Nair,South,Electronics,,2,-,2025-06-28
+1001,111,Arjun Das,South,electronics,1326,4,807,2025-04-05
+1020,,Vikram Singh,South,electronics,2992,9,1997,2025-05-25
+1027,108,MEENA IYER, North ,Clothing,2361,10,2227,2025-07-07
+1042,105,Vikram Singh,North,Electronics ,2572,9,2062,
+1032,104,Sneha Reddy,East,Groceries,1077,9,714,24/03/2025
+1022,101,Ravi Kumar,East,Furniture,2279,2,,2025-11-10
+1013,109,, North ,Clothing,429,4,291,26/01/2025
+1002,112,Pooja Gupta,South,Electronics,2618,,2246,2025-01-01
+1049,108,Meena Iyer,South,Electronics,2402,4,Rs. 2065,2025-09-09
+1024,109,Karthik Raj,South,Clothing,2201,1,1536,2025-02-12
+1060,106,Anjali Nair,West,Furniture,1169,3,868,2025-03-14
+1007,106,Anjali Nair,East,Electronics,2081,9,1839,2025-02-13
+1055,107,Rahul Verma,East,,214,6,152,2025-03-21
+1035,112,Pooja Gupta,South,Electronics,448,7,286,2025-12-11
+1005,101,RAVI KUMAR,North,Groceries,1593,5,1403,2025-03-07
+1023,111,Arjun Das,North,Furniture,1731,3,1624,2025-09-25
+1019,110,Divya Menon,south,groceries,-450,10,1072,2025-08-17
+1037,107,  Rahul Verma,North,Clothing,2094,4,1790,2025-02-15
+1049,108,Meena Iyer,South,Electronics,2402,4,Rs. 2065,2025-09-09
+1026,112,Pooja Gupta,west,Electronics,2381,3,1762,22-03-25
+1010,105,,West,Clothing,866,6,552,
+1003,102,Priya Sharma,North,Furniture,2269,,1625,2025-01-18
+1045,110,Divya Menon,south,Furniture,1853,2,1113,08/10/2025
+1058,109,Karthik Raj,NORTH,Groceries,N/A,1,509,2025-05-12
+1059,101,Ravi Kumar,East,Furniture,2993,4,2120,2025-11-04
+1044,,Karthik Raj,NORTH,Electronics,"$2,280",2,1934,2025-03-03
+1041,108,  Meena Iyer,East,Groceries,2476,8,,2025-03-07
+1047,106,Anjali Nair,East,Furniture,2943,6,2320,2025-04-09
+1058,109,Karthik Raj,NORTH,Groceries,N/A,1,509,2025-05-12
+1025,105,Vikram Singh, North ,Electronics,1186,10,978,03/02/2025
+1018,101,Ravi Kumar,South,Furniture,2770,3,1883,2025-11-14
+1053,103,Amit Patel,East,Clothing,2677,4,-,2025-12-11
+1017,106,Anjali Nair,North,Furniture,2287,8,2009,2025-02-25
+1038,109,Karthik Raj,South,Furnitures,2871,9,2038,2025-01-03
+1031,101,Ravi Kumar,,Electronics,328,6,308,2025-02-17
+1011,111,Arjun Das,East,Electronics,,3,2440,2025-09-24
+1048,107,Rahul Verma,NORTH,Clothing,N/A,6,1765,2025-02-01
+1046,110,Divya Menon,South,Electronics,1917,10,1771,17/10/2025
+1001,111,Arjun Das,South,electronics,1326,4,807,2025-04-05
+1033,110,Divya Menon,West,Furniture,999999,7,2002,2025-04-04
+1040,107,Rahul Verma,,Furniture,1752,1,,2025-07-09
+1029,108,Meena Iyer,South,Furniture,"$1,120",2,1040,2025-06-01
+1021,111,Arjun Das,East,Electronics,"$1,402",7,1002,2025-03-15
+1039,104,Sneha Reddy,North,Groceries ,2189,8,1778,2025-04-28
+1054,104,Sneha Reddy,East,groceries,1228,1,879,2025-02-21
+1057,102,  Priya Sharma,South,Furniture,2434,1,2074,2025-06-19
+1043,106,Anjali Nair, South ,Electronics,,8,,2025-09-28
+1051,108,Meena Iyer,East,Furnitures,N/A,9,2135,2025-05-22
+1009,101,Ravi Kumar,north,Clothing,526,4,461,2025-02-13
+1056,105,Vikram Singh,North,Groceries,2459,7,2205,2025-09-01
+1008,102,Priya Sharma,East,Clothing,2564,4,1778,2025-12-03
+1016,103,Amit Patel,North,Clothing,2594,,Rs. 1833,13-10-25
+1036,102,Priya Sharma,north,Furniture,979,9,736,2025-08-05
+1004,104,Sneha Reddy,West,Furniture,2039,10,1888,2025-05-26
+1030,110,DIVYA MENON,North,Furniture,$229,2,147,2025-12-21
+1034,102,Priya Sharma,West,Clothing,1934,7,1340,2025-08-28
+1045,110,Divya Menon,south,Furniture,1853,2,1113,08/10/2025
+1052,102,,North,Clothing,672,2,420,2025-12-18
+1012,104,Sneha Reddy,Sth,Groceries,1754,5,1579,2025-11-23
+1015,,Anjali Nair,North,Groceries,1820,8,1385,2025-03-09
+1028,109,Karthik Raj,North,Electronic,1834,6,1445,2025-08-17
+1050,103,Amit Patel,East,,1200,6,1002,2025-05-06
+1014,106,Anjali Nair,West,Electronic,471,4,417,2025-10-23
